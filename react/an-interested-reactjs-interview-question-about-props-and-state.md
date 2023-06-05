@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./an-interested-reactjs-interview-question-about-props-and-state.img-1.png"  width="80%">
 </p>
+
 # An interested React.js interview question about props and state: How to update a state when a prop of a component changes?
 
 The question of how to update a state when a prop of a component changes often arises in React developer interviews. While it may seem like a simple question, it actually highlights an important concept in React development and exposes an anti-pattern that should be avoided. Let's delve into this question and explore its various aspects.
